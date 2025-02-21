@@ -7,6 +7,7 @@ let GAMESTATE = {highScore: 0, level: 1, sequence: []}
 let USER_INPUT = []
 let PADS = []
 let seq = []
+console.log("javascript")
 
 document.addEventListener("DOMContentLoaded", async function() {
     try {
